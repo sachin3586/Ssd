@@ -8,6 +8,7 @@ public class JavaBasic {
         int c=a+b;
         System.out.println("Addition of two number is " + c);
         System.out.println("This is my first pull code by SSD");
+        System.out.println("Thank You");
 
     }
 }
