@@ -7,6 +7,7 @@ public class JavaBasic {
         int b=50;
         int c=a+b;
         System.out.println("Addition of two number is " + c);
+        System.out.println("This is my first pull code by SSD");
 
     }
 }
